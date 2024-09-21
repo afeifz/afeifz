@@ -1,13 +1,14 @@
-## Sou Mohamed, Estudante de Engenharia de Software.
+## Sou Mohamed 🚀, Estudante de Engenharia de Software.
 
-## Áreas:
-### Desenvolvimento Front-End/Back-End
-### Análise de Dados/Sistemas
+## 🛠 Áreas:
+### • 💻 Desenvolvimento Front-End/Back-End
+### • 📊 Análise de Dados/Sistemas
+### • 🔧 Engenheiro de Software
 
-## Competências:
-### Inglês Avançado
-### Storytelling
-### Estrutura de Dados
+## 💼 Competências:
+### • 📘 Inglês Avançado
+### • 💡 Storytelling
+### • 📉 Estrutura de Dados
 
 Social:
 
