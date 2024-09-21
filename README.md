@@ -1,7 +1,5 @@
 ## Sou Mohamed, Estudante de Engenharia de Software.
 
-# ![snake gif](https://github.com/afeifz/afeifz/blob/output/github-contribution-grid-snake.gif)
-
 ## Áreas:
 ### Desenvolvimento Front-End/Back-End
 ### Análise de Dados/Sistemas
@@ -42,6 +40,7 @@ Contato:
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&theme=tokyonight)
 
+# ![snake gif](https://github.com/afeifz/afeifz/blob/output/github-contribution-grid-snake.gif)
 
 
 
