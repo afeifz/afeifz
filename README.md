@@ -1,6 +1,6 @@
 ## Sou Mohamed, Estudante de Engenharia de Software.
 
-# ![snake gif](https://github.com/your-user-name/afeifz/blob/output/github-contribution-grid-snake.gif)
+# ![snake gif](https://github.com/afeifz/afeifz/blob/output/github-contribution-grid-snake.gif)
 
 ## Áreas:
 ### Desenvolvimento Front-End/Back-End
